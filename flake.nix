@@ -19,6 +19,7 @@
           packages = with pkgs; [
             nasm
             asm-lsp
+            asmfmt
           ];
         };
       }
