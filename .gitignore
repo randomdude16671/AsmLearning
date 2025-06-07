@@ -3,3 +3,6 @@ first.o
 
 # first is the binary 
 first
+
+.envrc
+.direnv/
